@@ -1,0 +1,171 @@
+/* CSS PART
+============HEADER SECTION==============
+*/
+#header{
+    background-color: rgb(63, 28, 99);
+    height: 60px;
+}
+.logo img{
+    height: 40px;
+    width: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#menu li{
+    display: inline-block;
+    padding: 15px 1px;
+}
+#menu li a{
+    padding: 0 1px;
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+}
+/*
+============BANNER SECTION==============
+*/
+#banner{
+    background-color: rebeccapurple;
+    padding-top: 70px;
+}
+.portfolio{
+    padding-top: 30px;
+    padding-bottom: 230px;
+}
+.portfolio h1.title{
+    color: black;
+}
+.portfolio p.lead{
+    color: black;
+}
+.image img{
+    width: 300px;
+    height: 200px;
+    margin-left: 150px;
+    margin-top: 65px;
+}
+
+/*
+============SERVICES SECTION==============
+*/
+.service{
+    padding-top: 100px;
+    padding-bottom: 110px;
+}
+.service-heading{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: black;
+}
+.service-headings-one{
+    color: black;
+}
+.service-headings-one p{
+    padding-top: 30px;
+}
+.service-headings-one img{
+    margin-left: 80px;
+}
+.service-headings-two{
+    color: black;
+}
+.service-headings-two p{
+    padding-top: 30px;
+}
+.service-headings-two img{
+    margin-left: 110px;
+}
+.service-headings-three{
+    color: black;
+    padding-bottom: 70px;
+}
+.service-headings-three p{
+    padding-top: 30px;
+}
+.service-headings-three img{
+    margin-left: 70px;
+}
+
+/*
+============ABOUT US SECTION==============
+*/
+.service{
+    padding-top: 70px;
+    padding-bottom: 45px;
+}
+.service-heading{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: black;
+}
+.about-us{
+    color: black;
+    padding-top: 30px;
+}
+.about-us ol{
+    list-style-type: disc;
+    padding-top: 20px;
+}
+/*
+============TESTIMONIALS SECTION==============
+*/
+.testimonials{
+    color: black;
+}
+.testimonials-detail{
+    color: black;
+}
+.testimonials-detail img{
+    padding-top: 20px;
+}
+.testimonials-detail p{
+    padding-top: 10px;
+}
+/*
+============CONTACT US SECTION==============
+*/
+.service-heading{
+    color: black;   
+}
+.service-heading ul{
+    list-style-type: none;
+}
+.service-heading ul li{
+    display: inline-block;
+}
+.service-heading ul li img{
+    border-radius: 50px;
+    padding: 0 10px;
+}
+.service-heading ul li img:hover{
+    width: 60px;
+    height: 60px;
+}
+.contact-us-section{
+    background-color: rebeccapurple;
+    
+}
+.contact-us{
+    color: black;
+    padding-top: 50px;
+}
+.contact-us-one img{
+    margin-left: 90px;
+}
+.contact-us-one p.lead{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: black;
+}
+.contact-us-two address{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.input{
+    
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.input::placeholder{
+    color: black;
+}
